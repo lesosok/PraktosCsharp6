@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mNMhnkLRjOCJFdJdVUQb61L6JEjaFvKpkCiNILMoJSPYl+pboc/Ww2My4LJFlUDcao+fFR1c981E6nvN1hCPoQ==",
+  "dgSpecHash": "W60gPLXMMnVgIqZtdIM0ntvSEaBCXNGyK3+vJWD0hBW0B5EPbn45HhC7H1Gs0WwsttjkqUIg91wEouDOwAKAIQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Leefaut\\source\\repos\\Практическая №6\\Практическая №6\\Практическая №6.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Leefaut\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

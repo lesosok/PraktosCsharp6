@@ -12,3 +12,6 @@ C:\Users\Leefaut\source\repos\Практическая №6\Практическ
 C:\Users\Leefaut\source\repos\Практическая №6\Практическая №6\obj\Debug\net6.0\Практическая №6.pdb
 C:\Users\Leefaut\source\repos\Практическая №6\Практическая №6\obj\Debug\net6.0\Практическая №6.genruntimeconfig.cache
 C:\Users\Leefaut\source\repos\Практическая №6\Практическая №6\obj\Debug\net6.0\ref\Практическая №6.dll
+C:\Users\Leefaut\source\repos\Практическая №6\Практическая №6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Leefaut\source\repos\Практическая №6\Практическая №6\obj\Debug\net6.0\Практическая №6.csproj.AssemblyReference.cache
+C:\Users\Leefaut\source\repos\Практическая №6\Практическая №6\obj\Debug\net6.0\Практическая №6.csproj.CopyComplete
